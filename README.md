@@ -1,6 +1,6 @@
 # XamarinFormsPersianCalendar
 Xamarin Forms Persian Calendar
-By <a href="http://hosseinbadrnezhad.ir">Hossein Badrnezhad</a>
+By <a href="http://hosseinbadrnezhad.ir" target="_blank">Hossein Badrnezhad</a>
 
 <img src="src/demo1.jpeg"  align="center" />
 
